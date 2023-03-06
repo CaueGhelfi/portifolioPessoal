@@ -1,4 +1,12 @@
 # portifolioPessoal
+Este é o meu projeto, é um portfólio pessoal com descrições sobre mim. Coloquei informações e certificações sobre meu currículo.
+
+Pagina inicial:
+
+-Usei para meu marketing pessoal, informando minhas redes sociais e minhas habilidades com programação;
+
+*******************************************************************************************************************************
+
 This is my project, is a portfolio guys with descriptions about me. I placed informations and certifications about my resume.
 
 Home page:
@@ -8,6 +16,13 @@ Home page:
 ![image](https://user-images.githubusercontent.com/107440564/223150657-785c19d5-b25a-412d-96e1-6c7f4df5b54a.png)
 
 
+
+
+Sobre mim:
+
+-Escrevi sobre minha formação na escola e na universidade com minhas certificações e conhecimentos para o mercado de trabalho.
+
+*******************************************************************************************************************************
 
 About me:
 
